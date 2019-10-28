@@ -1,0 +1,44 @@
+.container {
+  width: 65%;
+  text-align: center;
+  margin: auto;
+
+}
+.start{
+   background-color: #7a98a3;
+   border: none;
+   color: #55369c;
+   text-shadow: 1px 1px #660c21;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-family: 'Permanent Marker', cursive;
+   font-size: 30px;
+}
+.dice {
+  display: inline-block;
+}
+
+body {
+  background-color: #7c87cf;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 5px 0 #660c21;
+  font-size: 8rem;
+  color: #b84963;
+
+}
+
+p {
+  font-size: 2.5rem;
+  color: #b84963;
+ font-family: 'Courgette', cursive;
+}
+
+img {
+  width: 70%;
+}
